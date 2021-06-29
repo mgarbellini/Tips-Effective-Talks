@@ -12,3 +12,7 @@ The following is the list of online articles:
 
  The following is the list of uploaded papers/articles/powerpoints available in this repository:
  - [Alexandrov, Hennerici - How to prepare and deliver a scientific presentation](../blob/main/Alexandrov%2C Hennerici - How to prepare and deliver a scientific presentation.pdf)
+
+
+The following is the list of paper/articles/powerpoints on **style tips**:
+- [Puschel - Small guide to making nice tables](../blob/main/Style-tips/Puschel.pdf)
