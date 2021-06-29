@@ -18,7 +18,7 @@ The following is the list of uploaded papers/articles/slides and online articles
 - [(online) University of Wisconsin-Madison - Learn how to write a review of literature](https://writing.wisc.edu/handbook/assignments/reviewofliterature/)
 
 The following is the list of uploaded papers/articles/slides and online articles on **style tips and useful resources**:
-- [Puschel - Small guide to making nice tables](../main/Style-tips/Puschel.pdf)
+- [M. Puschel - Small guide to making nice tables](../main/Style-tips/Puschel.pdf)
 - [Smart words: a handpicked collections of gems of the english language](https://www.smart-words.org)
 - [Academic Phrasebank by The University of Manchester](https://www.phrasebank.manchester.ac.uk/)
 
