@@ -4,6 +4,8 @@
 A collection of tips and tricks for effective scientific talks and reports.
 Most of these resources were found online, with some suggested by Prof. J. Dzubiella and Dr. M. Bley from the University of Freiburg (Germany) and others by Prof. M. Cosentino Lagomarsino from the University of Milan (Italy).
 
+**Note** The articles/paper are not given in a particular order (for the time being at least). The *(online)* refers to an article that is only available online and/or is published on an online journal/blog; all the remaining articles can be downloaded from this repository and have open access for personal use.
+
 
  The following is the list of uploaded papers/articles/slides and online articles on **talks and presentations**:
  - [Alexandrov, Hennerici - How to prepare and deliver a scientific presentation](../main/Talk-and-presentation-tips/Alexandrov_Hennerici.pdf)
