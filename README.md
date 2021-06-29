@@ -32,6 +32,7 @@ The following is the list of uploaded papers/articles/slides and online articles
 - [(online) A. Tay - How to write a superb literature review](https://www.nature.com/articles/d41586-020-03422-x)
 - [(online) H. Mongal-Rallis - Guidelines for writing a literature review](https://www.d.umn.edu/~hrallis/guides/researching/litreview.html)
 - [(online) University of Wisconsin-Madison - Learn how to write a review of literature](https://writing.wisc.edu/handbook/assignments/reviewofliterature/)
+- [D. Taylor, M. Procter - The literature review: a few tips on conducting it](../main/Writing-tips/Taylor_Procter.pdf)
 - [U. Alon - How to choose a good scientific problem](../main/Writing-tips/Alon.pdf)
 
 The following is the list of uploaded papers/articles/slides and online articles on **style tips and useful resources**:
