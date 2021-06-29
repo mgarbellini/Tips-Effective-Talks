@@ -34,7 +34,7 @@ The following is the list of uploaded papers/articles/slides and online articles
 - [D. Taylor, M. Procter - The literature review: a few tips on conducting it](../main/Writing-tips/Taylor_Procter.pdf)
 - [U. Alon - How to choose a good scientific problem](../main/Writing-tips/Alon.pdf)
 
-The following is the list of uploaded papers/articles/slides and online articles on **style tips and useful resources**:
+The following is the list of uploaded papers/articles/slides and online articles on **style tips** and additional **useful resources**:
 - [M. Puschel - Small guide to making nice tables](../main/Style-tips/Puschel.pdf)
 - [Smart words: a handpicked collections of gems of the english language](https://www.smart-words.org)
 - [Academic Phrasebank by The University of Manchester](https://www.phrasebank.manchester.ac.uk/)
