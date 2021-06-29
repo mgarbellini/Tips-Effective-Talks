@@ -11,7 +11,7 @@ Most of these resources were found online, with some suggested by Prof. J. Dzubi
  - [(online) Scientific presentations: A cheat sheet (J. Leeming)](http://blogs.nature.com/naturejobs/2017/01/11/scientific-presentations-a-cheat-sheet/)
  - [(online) How (not) to give the best scientific presentation ever (A. Maynard)](https://medium.com/edge-of-innovation/how-to-give-the-best-scientific-presentation-ever-c87e202718cf)
 
-The following is the list of uploaded papers/articles/slides and online articles on **writing a scientific piece**:
+The following is the list of uploaded papers/articles/slides and online articles on **writing a scientific piece (article/report/review)**:
 - [(online) Tips for writing literature review article (E. Crawford)](https://www.asbmb.org/asbmb-today/careers/120111/writing-a-scientific-literature-review-article)
 - [(online) How to write a superb literature review (A. Tay)](https://www.nature.com/articles/d41586-020-03422-x)
 - [(online) H. Mongal-Rallis - Guidelines for writing a literature review](https://www.d.umn.edu/~hrallis/guides/researching/litreview.html)
