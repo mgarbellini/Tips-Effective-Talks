@@ -4,7 +4,7 @@ Most of these resources were found online, with some suggested by Prof. J. Dzubi
 
 
 The following is the list of online articles:
- - https://www.asbmb.org/asbmb-today/careers/120111/writing-a-scientific-literature-review-article
+ - Tips for writing literature review article (E. Crawford) https://www.asbmb.org/asbmb-today/careers/120111/writing-a-scientific-literature-review-article
  - https://guides.lib.umich.edu/c.php?g=283300&p=2915110
  - https://www.nature.com/articles/d41586-020-03422-x
  - https://www.nature.com/articles/d41586-018-07780-5
