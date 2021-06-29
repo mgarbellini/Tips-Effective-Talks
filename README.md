@@ -10,9 +10,10 @@ The following is the list of online articles:
  - [Scientific presentations: A cheat sheet (J. Leeming)](http://blogs.nature.com/naturejobs/2017/01/11/scientific-presentations-a-cheat-sheet/)
  - [How (not) to give the best scientific presentation ever (A. Maynard)](https://medium.com/edge-of-innovation/how-to-give-the-best-scientific-presentation-ever-c87e202718cf)
 
- The following is the list of uploaded papers/articles/powerpoints available in this repository:
- - [Alexandrov, Hennerici - How to prepare and deliver a scientific presentation](../blob/main/Alexandrov%2C Hennerici - How to prepare and deliver a scientific presentation.pdf)
+ The following is the list of uploaded papers/articles/slides on **talks and presentations**:
+ - [Alexandrov, Hennerici - How to prepare and deliver a scientific presentation](../main/Alexandrov_Hennerici.pdf)
 
+The following is the list of uploaded papers/articles/slides on **writing a scientific piece**:
 
 The following is the list of paper/articles/powerpoints on **style tips**:
 - [Puschel - Small guide to making nice tables](../main/Style-tips/Puschel.pdf)
