@@ -11,7 +11,7 @@ The following is the list of online articles:
  - [How (not) to give the best scientific presentation ever (A. Maynard)](https://medium.com/edge-of-innovation/how-to-give-the-best-scientific-presentation-ever-c87e202718cf)
 
  The following is the list of uploaded papers/articles/slides on **talks and presentations**:
- - [Alexandrov, Hennerici - How to prepare and deliver a scientific presentation](../main/Alexandrov_Hennerici.pdf)
+ - [Alexandrov, Hennerici - How to prepare and deliver a scientific presentation](../main/Talk-and-presentation-tips/Alexandrov_Hennerici.pdf)
 
 The following is the list of uploaded papers/articles/slides on **writing a scientific piece**:
 
