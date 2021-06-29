@@ -11,4 +11,4 @@ The following is the list of online articles:
  - How (not) to give the best scientific presentation ever (A. Maynard) https://medium.com/edge-of-innovation/how-to-give-the-best-scientific-presentation-ever-c87e202718cf
 
  The following is the list of uploaded papers/articles/powerpoints available in this repository:
- - https://github.com/mgarbellini/Tips-Effective-Talks/blob/6851a16aa8cf739b9e5d68d1f235b6b8ac26e745/Alexandrov,%20Hennerici%20-%20How%20to%20prepare%20and%20deliver%20a%20scientific%20presentation.pdf
+ - Alexandrov, Hennerici - How to prepare and deliver a scientific presentation.pdf
