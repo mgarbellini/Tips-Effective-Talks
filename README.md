@@ -18,7 +18,7 @@ Most of these resources were found online, with some suggested by Prof. J. Dzubi
  - [R. Milo - Tips for preparing an effective scientific talk](../main/Talk-and-presentation-tips/Milo.pdf)
  - [M.A. Morrison - How to give effective informal talks about physics](../main/Talk-and-presentation-tips/Morrison.pdf)
  - [G. Schatz - Jeff's view: how (not) to give a seminar](../main/Talk-and-presentation-tips/Schatz.pdf)
- - [Unknown - Tips for creating and giving scientific presentations](../main/Talk-and-presentation-tips/Unknown.pdf)
+ - [S.L. Cooper - Tips for creating and giving scientific presentations](../main/Talk-and-presentation-tips/Unknown.pdf)
  - [H. Wachsmuth - Basics of scientific presentation](../main/Talk-and-presentation-tips/Wachsmuth.pdf)
  - [(online) N. Fleming - How to give a great scientific talk](https://www.nature.com/articles/d41586-018-07780-5)
  - [(online) J. Leeming - Scientific presentations: A cheat sheet](http://blogs.nature.com/naturejobs/2017/01/11/scientific-presentations-a-cheat-sheet/)
