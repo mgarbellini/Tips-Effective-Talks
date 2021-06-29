@@ -15,4 +15,4 @@ The following is the list of online articles:
 
 
 The following is the list of paper/articles/powerpoints on **style tips**:
-- [Puschel - Small guide to making nice tables](../blob/main/Style-tips/Puschel.pdf)
+- [Puschel - Small guide to making nice tables](../main/Style-tips/Puschel.pdf)
