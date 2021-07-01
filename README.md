@@ -36,5 +36,5 @@ The following is the list of uploaded papers/articles/slides and online articles
 
 The following is the list of uploaded papers/articles/slides and online articles on **style tips** and additional **useful resources**:
 - [M. Puschel - Small guide to making nice tables](../main/Style-tips/Puschel.pdf)
-- [Smart words: a handpicked collections of gems of the english language](https://www.smart-words.org)
-- [Academic Phrasebank by The University of Manchester](https://www.phrasebank.manchester.ac.uk/)
+- [*(online resource)* Smart words: a handpicked collections of gems of the english language](https://www.smart-words.org)
+- [*(online resource)* Academic Phrasebank by The University of Manchester](https://www.phrasebank.manchester.ac.uk/)
