@@ -24,7 +24,7 @@ Most of these resources were found online, some suggested by Prof. M. Cosentino 
  - [*(online)* A. Maynard - How (not) to give the best scientific presentation ever](https://medium.com/edge-of-innovation/how-to-give-the-best-scientific-presentation-ever-c87e202718cf)
 
 The following is the list of uploaded papers/articles/slides and online articles on **writing a scientific piece (article/report/review)**:
-- [H. Grubmuller - Scientific writing: the art of programming brains ](../main/Writing-tips/Grubmuller.pdf) (thanks to J. Dzubiella and M. Bley)
+- [H. Grubmuller - Scientific writing: the art of programming brains ](../main/Writing-tips/Grubmuller.pdf) (many thanks to J. Dzubiella and M. Bley)
 - [B.J. Hoogenboom, R. C. Manske - How to write a scientific article](../main/Writing-tips/Hoogenboom_Manske.pdf)
 - [Dublin City University - Workshop on scientific literature review](../main/Writing-tips/Workshop.pdf)
 - [*(online)* E. Crawford - Tips for writing literature review article](https://www.asbmb.org/asbmb-today/careers/120111/writing-a-scientific-literature-review-article)
