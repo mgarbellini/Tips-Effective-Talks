@@ -39,3 +39,4 @@ The following is the list of uploaded papers/articles/slides and online articles
 - [J. Garrett - Science plots in Matplotlib](https://github.com/garrettj403/SciencePlots) (incredibly nice plots in python)
 - [*(online resource)* Smart words: a handpicked collections of gems of the english language](https://www.smart-words.org)
 - [*(online resource)* Academic Phrasebank by The University of Manchester](https://www.phrasebank.manchester.ac.uk/)
+- [*(online resource)* BibTeX to text converter](https://bibtex.online/)
