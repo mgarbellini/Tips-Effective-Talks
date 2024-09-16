@@ -33,6 +33,7 @@ The following is the list of uploaded papers/articles/slides and online articles
 - [*(online)* University of Wisconsin-Madison - Learn how to write a review of literature](https://writing.wisc.edu/handbook/assignments/reviewofliterature/)
 - [D. Taylor, M. Procter - The literature review: a few tips on conducting it](../main/Writing-tips/Taylor_Procter.pdf)
 - [U. Alon - How to choose a good scientific problem](../main/Writing-tips/Alon.pdf) (many thanks to M.C. Lagomarsino)
+- [A guide to writing mathematics - Dr. Kevin P. Lee, UCDavies](https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf) (suggested by D. Badalotti)
 
 The following is the list of uploaded papers/articles/slides and online articles on **style tips** and additional **useful resources**:
 - [M. Puschel - Small guide to making nice tables](../main/Style-tips/Puschel.pdf)
